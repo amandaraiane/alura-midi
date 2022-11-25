@@ -1,1 +1,1 @@
-##Projeto desenvolvido no curso de JavaScript para Web: Crie páginas dinâmicas da Alura
+## Projeto desenvolvido no curso de JavaScript para Web: Crie páginas dinâmicas da Alura
